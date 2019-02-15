@@ -1,0 +1,50 @@
+body {
+    text-align:center;
+    background-color:#eff2f7;
+    font-size:19px;
+    font-family: 'Staatliches', cursive;
+    
+ 
+}
+
+img {
+ height:250px;   
+ border:solid;
+ border-color:yellow;
+ 
+}
+
+.Img1 {
+    display:flex;  
+    flex-direction:row;
+     height:50%;
+     width:50%;
+      text-align:center;
+    
+}
+
+h1{
+ color:black; 
+ font-family: 'Staatliches', cursive;
+}
+
+button{
+    background-color:yellow;
+    height:50px;
+    width:100px;
+    color:blue;
+    font-size:19px;
+    border:solid;
+    border-color:darkgray;
+    font-family: 'Staatliches', cursive;
+   
+}
+
+.red {
+    color:red;
+}
+
+.blue {
+    color:blue;
+}
+
